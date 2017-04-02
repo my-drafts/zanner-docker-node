@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "fork": "node app.js &",
+    "start": "supervisor app.js",
+    "test": "node app.js"
+  },
+  "author": "Sergyi Kukharyev",
+  "license": "ISC"
+}
